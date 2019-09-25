@@ -1,8 +1,8 @@
-/slide/images/omikuji/toppage.gif
+/slide/images/omikuji/toppage.gif.json
 /http.post/http://localhost:5910/check
 /if/停止中/:STOPLOOP
 :LOOP
-/slide/images/omikuji/toppage.gif
+/slide/images/omikuji/toppage.gif.json
 /.speech.speed/100
 /led.blink
 /.waitevent.timeout/60000
@@ -33,40 +33,54 @@
 
 だいきちー
 /3
+/.payload.text/だいきち
+/http.post/http://localhost:5910/message
 /goto/:LOOP
 :F2
 /slide/images/omikuji/005.png
 
 ちゅうきちー
 /3
+/.payload.text/ちゅうきち
+/http.post/http://localhost:5910/message
 /goto/:LOOP
 :F3
 /slide/images/omikuji/006.png
 
 しょうきちー
 /3
+/.payload.text/しょうきち
+/http.post/http://localhost:5910/message
 /goto/:LOOP
 :F4
 /slide/images/omikuji/007.png
 
 きちー
 /3
+/.payload.text/きち
+/http.post/http://localhost:5910/message
 /goto/:LOOP
 :F5
 /slide/images/omikuji/008.png
 
 すえきちー
 /3
+/.payload.text/すえきち
+/http.post/http://localhost:5910/message
 /goto/:LOOP
 :F6
 /slide/images/omikuji/009.png
 
 きょうー
 /3
+/.payload.text/きょう
+/http.post/http://localhost:5910/message
 /goto/:LOOP
 :F7
 /slide/images/omikuji/010.png
 
 だいきょうー
 /3
+/.payload.text/だいきょう
+/http.post/http://localhost:5910/message
 /goto/:LOOP
