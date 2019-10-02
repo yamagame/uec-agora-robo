@@ -116,4 +116,6 @@ Your result is ..
 /quiz.show/no-save
 /quiz.wait
 /5s
+/.payload.text/TOEICエンド
+/http.post/http://localhost:5910/message
 /goto/:LOOP
