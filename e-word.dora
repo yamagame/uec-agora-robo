@@ -43,7 +43,7 @@
 /goto/:QUIZ/:WAIT
 
 :QUIZ
-/quiz.speech/タッチで解答、解答時間は３分です。
+/quiz.speech/タッチで解答、解答時間は１分です。
 /.waitevent.timeout/0
 /wait-event/:例外
 /join-flow
@@ -57,7 +57,7 @@
 /goto/:不正解
 
 :WAIT
-/.waitevent.timeout/180000
+/.waitevent.timeout/60000
 /wait-event/:例外
 /join-flow
 /goto/:ANSWER
