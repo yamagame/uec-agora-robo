@@ -91,6 +91,8 @@
 /goto/:LOOP
 
 :TOEIC
+/.payload.text/TOEICスタート
+/http.post/http://localhost:5910/message
 /.server/http://localhost:3000
 /quiz.speech
 /http.post/{{{server}}}/start
