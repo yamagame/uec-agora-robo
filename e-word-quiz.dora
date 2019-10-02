@@ -12,6 +12,7 @@
 /if/omikuji/:OMIKUJI
 /if/toeic/:TOEIC
 :OMIKUJI
+/.speech.languageCode/default
 /sound/omikuji/Pop.wav
 /led.talk
 /goto/:F
