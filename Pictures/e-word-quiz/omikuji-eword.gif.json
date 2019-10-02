@@ -1,0 +1,7 @@
+{
+  "image": "omikuji-eword.gif",
+  "area": [
+    { "x": 42, "y": 262, "width": 880, "height": 617, "title": "omikuji" },
+    { "x": 998, "y": 260, "width": 881, "height": 622, "title": "toeic" }
+  ]
+}
