@@ -11,6 +11,7 @@
 /if/timeout/:TIMEOUT
 /if/omikuji/:OMIKUJI
 /if/toeic/:TOEIC
+/if/book/:BOOK
 :OMIKUJI
 /.speech.languageCode/default
 /sound/omikuji/Pop.wav
@@ -118,4 +119,10 @@ Your result is ..
 /5s
 /.payload.text/TOEICエンド
 /http.post/http://localhost:5910/message
+/goto/:LOOP
+
+:BOOK
+/.payload.text/おすすめの本
+/http.post/http://localhost:5910/message
+/call/book-recom.dara
 /goto/:LOOP

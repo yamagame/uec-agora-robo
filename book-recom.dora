@@ -1,0 +1,80 @@
+/slide/image/book-recom/book-recom.jpeg
+本日のあなたへのおすすめの本は
+/3s
+/goto.random/:0/:1/:2/:3/:4/:5/:6/:7/:8/:9/:10/:11
+
+:0
+/slide/images/book-recom/recom2 (0).png
+死ぬまでに行きたい、世界の絶景
+実際の旅行計画案と共に見ていく、Facebookから誕生した写真集です。
+/goto/:end
+
+:1
+/slide/images/book-recom/recom2 (1).png
+ジェフ ベゾス 果てなき野望
+話題に事欠かないAmazon、その創業者であるジェフ・ベゾスの伝記です。
+/goto/:end
+
+:2
+/slide/images/book-recom/recom2 (2).png
+島はぼくらと
+島ならではの人間関係の難しさと、幼馴染４人の絆を描いた作品です。
+/goto/:end
+
+:3
+/slide/images/book-recom/recom2 (3).png
+天気と気象について、わかっていること、いないこと
+さまざまな空の現象を紹介し、現代の天気予報のしくみを紹介しています。
+/goto/:end
+
+:4
+/slide/images/book-recom/recom2 (4).png
+この世界で１番の奇跡
+人生の意味とは、この世の本当の奇跡とは？ 心温まる大人のための童話です。
+/goto/:end
+
+:5
+/slide/images/book-recom/recom2 (5).png
+確率論と私
+数学が楽しくないと思っている理工学生にも是非読んで欲しい一冊です。
+/goto/:end
+
+:6
+/slide/images/book-recom/recom2 (6).png
+イプシロン ザ ロケット
+新型固体燃料ロケット、誕生の瞬間
+多くの人の「手」と「知恵」と「情熱」に満ちたロケットの開発現場を伝える一冊です。
+/goto/:end
+
+:7
+/slide/images/book-recom/recom2 (7).png
+パンダ、ネコをかぶった珍獣
+パンダってナニモノなんだろう？ 人気者パンダの意外な正体を知ることができます。
+/goto/:end
+
+:8
+/slide/images/book-recom/recom2 (8).png
+クッキング フォー ギークス
+料理の科学と実践レシピ
+「料理は科学」という、実際に調理した考察と結果がいっぱいつまっています。
+/goto/:end
+
+:9
+/slide/images/book-recom/recom2 (9).png
+コミックで学ぶ、イライラの片付け方
+イライラしてしまった時、少しでも早く解消できるよう、ぜひ読んでみてください。
+/goto/:end
+
+:10
+/slide/images/book-recom/recom2 (10).png
+砂漠
+大学への入学を機に５人の男女が出会う、４編から構成されている長編小説です。
+/goto/:end
+
+:11
+/slide/images/book-recom/recom2 (11).png
+君たちはどういきるか
+中学生のコペル君を通じて、いかに生きるべきかを問うている名著です。 
+/goto/:end
+:end
+/5s

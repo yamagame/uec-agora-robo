@@ -1,7 +1,8 @@
 {
   "image": "omikuji-eword.gif",
   "area": [
-    { "x": 42, "y": 262, "width": 880, "height": 617, "title": "omikuji" },
-    { "x": 998, "y": 260, "width": 881, "height": 622, "title": "toeic" }
+    { "x": 80, "y": 73, "width": 845, "height": 496, "title": "omikuji" },
+    { "x": 987, "y": 68, "width": 855, "height": 510, "title": "toeic" },
+    { "x": 128, "y": 635, "width": 1656, "height": 259, "title": "book" }
   ]
 }
