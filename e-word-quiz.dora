@@ -124,5 +124,5 @@ Your result is ..
 :BOOK
 /.payload.text/おすすめの本
 /http.post/http://localhost:5910/message
-/call/book-recom.dara
+/call/book-recom.dora
 /goto/:LOOP
